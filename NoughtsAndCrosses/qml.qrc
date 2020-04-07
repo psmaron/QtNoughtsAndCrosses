@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>resources/circle.svg</file>
+        <file>GameBoard.qml</file>
+        <file>NotificationsBar.qml</file>
+        <file>PlayersScreen.qml</file>
+        <file>MyText.qml</file>
+        <file>resources/cross.svg</file>
+        <file>Overlay.qml</file>
+    </qresource>
+</RCC>
